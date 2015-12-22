@@ -1,0 +1,58 @@
+.bg-1{
+            background-color: whitesmoke;
+        }
+        .bg-2{
+            background-color: white;
+        }
+        .bg-3{
+            background-color: white;
+        }
+        .bg-4{
+            background-color:lightgrey;
+        }
+        .bg-5{
+            background-color:floralwhite;
+        }
+        
+  .container-fluid1 {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+ 
+
+        .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+      height:50%;
+          
+  }
+#name
+{
+font-family: fantasy;
+color: white;
+}
+#chennai, #Frankfurt, #Rossdorf
+{
+    text-align: justify;
+    font-family: cursive;
+    margin: 5px solid black;
+    
+}
+#Dhana, #TUD{
+    font-size: 20px;
+}
+#Prog{
+    border: 2px solid black;
+    padding: 10px;
+    background-color:floralwhite;
+    color:black;
+    border-radius:25px;
+    background-color: darkseagreen
+}
+#Contact{
+    background-color:darkgrey
+}
