@@ -10,6 +10,5 @@
     mysqli_query($success, "INSERT INTO `personal`.`person` (name, email, comments) VALUES ('$names', '$email', '$comments')");
     }
     mysqli_close();
+include('index.html');
 ?> 
-
-<a href="index.html" style="text-align:center; color:blue;">Click Here To Return to My Page</a>
