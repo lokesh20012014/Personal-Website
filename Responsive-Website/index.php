@@ -1,6 +1,6 @@
 
 
-<?php
+<?php   // Script: Getting User Comments in Database
     include('connect.php');
     if(isset($_POST['names']) and isset($_POST['email']))
 {
